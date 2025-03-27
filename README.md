@@ -1,6 +1,6 @@
 # Node REST Shop
 
-Welcome to the Node REST Shop repository! I used [this playlist]((https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q)) to help me learn and create api's.
+Welcome to the Node REST Shop repository! I used [this playlist](https://www.youtube.com/watch?v=0oXYLzuucwE&list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q) to help me learn and create api's.
 I also am using this to practice my git commands, which is why the initial commit has a good amount of code in it. Feel free to take inspiration or use the resource to learn.
 
 ## Table of Contents
