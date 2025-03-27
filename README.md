@@ -7,7 +7,6 @@ I also am using this to practice my git commands, which is why the initial commi
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Running the Project](#running-the-project)
 
@@ -18,12 +17,6 @@ This project aims to provide a hands-on learning experience for building RESTful
 ## Getting Started
 
 To get started with this project, you will need to have Node.js and npm (Node Package Manager) installed on your machine. If you haven't installed them yet, you can download and install them from [here](https://nodejs.org/).
-
-## Project Structure
-
-The project structure is organized as follows:
-node-rest-shop/ ├── app.js ├── package.json ├── routes/ │ ├── products.js │ └── orders.js ├── controllers/ │ ├── productsController.js │ └── ordersController.js ├── models/ │ ├── product.js │ └── order.js ├── middleware/ │ └── auth.js └── config/ └── database.js
-
 
 ## Dependencies
 
