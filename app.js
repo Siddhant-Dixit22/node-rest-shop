@@ -12,6 +12,7 @@ const productRoutes = require('./api/routes/products');
 const ordersRoutes = require('./api/routes/orders');
 
 app.use(morgan('dev'));
+app.use('/uploads', express.static('uploads'));
 app.use(bodyParser.urlencoded({extended: false}));
 app.use(bodyParser.json());
 
